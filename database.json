@@ -1,261 +1,305 @@
 {
-    "users": [
-        {
-            "id": 1,
-            "name": "Anita Bins",
-            "location": "Rutherford",
-            "brokerage": "Byers & Harvey",
-            "email": "ABins@gmail.com",
-            "isProvider": true
-         },
-         {
-            "id": 2,
-            "name": "Rochelle Krajcik",
-            "location": "Davidson",
-            "brokerage": "Century 21",
-            "email": "RKrajcik@gmail.com",
-            "isProvider": true
-         },
-         {
-            "id": 3,
-            "name": "Boyd Jacobson",
-            "location": "Davidson",
-            "brokerage": "Parks",
-            "email": "BJacobson@gmail.com",
-            "isProvider": true
-         },
-         {
-            "id": 4,
-            "name": "Cesar Renner",
-            "location": "Wilson",
-            "brokerage": "Parks",
-            "email": "CRenner@gmail.com",
-            "isProvider": true
-         },
-         {
-            "id": 5,
-            "name": "Lydia Paucek",
-            "location": "Bedford",
-            "brokerage": "Remax",
-            "email": "LPaucek@gmail.com",
-            "isProvider": false
-         },
-         {
-            "id": 6,
-            "name": "Dianna Lind",
-            "location": "Montgomery",
-            "brokerage": "Crye-Leik",
-            "email": "DLind@gmail.com",
-            "isProvider": false
-         },
-         {
-            "id": 7,
-            "name": "Edward Hoeger",
-            "location": "Montgomery",
-            "brokerage": "Remax",
-            "email": "",
-            "isProvider": false
-         },
-         {
-            "id": 8,
-            "name": "Dianne Price",
-            "location": "Davidson",
-            "brokerage": "Crye-Leik",
-            "email": "",
-            "isProvider": false
-         },
-         {
-            "id": 9,
-            "name": "Cathy Wintheiser",
-            "location": "Montgomery",
-            "brokerage": "Coldwell Banker",
-            "email": "",
-            "isProvider": false
-         },
-         {
-            "id": 10,
-            "name": "Roosevelt Koss",
-            "location": "Bedford",
-            "brokerage": "Century 21",
-            "email": "",
-            "isProvider": false
-         },
-         {
-            "id": 11,
-            "name": "Doug Barrows",
-            "location": "Cheatham",
-            "brokerage": "Century 21",
-            "email": "",
-            "isProvider": false
-         },
-         {
-            "id": 12,
-            "name": "Eloise Goodwin",
-            "location": "Montgomery",
-            "brokerage": "Byers & Harvey",
-            "email": "EGoodwin@gmail.com",
-            "isProvider": false
-         },
-         {
-            "id": 13,
-            "name": "Catherine Bode",
-            "location": "Bedford",
-            "brokerage": "Century 21",
-            "email": "CBode@gmail.com",
-            "isProvider": false
-         },
-         {
-            "id": 14,
-            "name": "Francisco Rath",
-            "location": "Bedford",
-            "brokerage": "Keller Williams",
-            "email": "FRath@gmail.com",
-            "isProvider": false
-         },
-         {
-            "id": 15,
-            "name": "Marvin Bergstrom",
-            "location": "Bedford",
-            "brokerage": "Keller Williams",
-            "email": "MBergstrom@gmail.com",
-            "isProvider": false
-         },
-         {
-            "id": 16,
-            "name": "Chester Daugherty",
-            "location": "Rutherford",
-            "brokerage": "Coldwell Banker",
-            "email": "CDaugherty@gmail.com",
-            "isProvider": false
-         },
-         {
-            "id": 17,
-            "name": "Susan Rutherford",
-            "location": "Davidson",
-            "brokerage": "Keller Williams",
-            "email": "",
-            "isProvider": false  
-         },
-         {
-            "id": 18,
-            "name": "Salvatore Wehner",
-            "location": "Cheatham",
-            "brokerage": "Century 21",
-            "email": "SWehner@gmail.com",
-            "isProvider": false
-         },{
-            "id": 19,
-            "name": "Keith Hessel",
-            "location": "Dickson",
-            "brokerage": "Coldwell Banker",
-            "email": "KHessel@gmail.com",
-            "isProvider": false
-         },
-         {
-            "id": 20,
-            "name": "Samuel Walter",
-            "location": "Davidson",
-            "brokerage": "Coldwell Banker",
-            "email": "SWalter@gmail.com",
-            "isProvider": false
-         },
-         {
-            "id": 21,
-            "name": "Ida Farrell",
-            "location": "Davidson",
-            "brokerage": "Century 21",
-            "email": "IFarrell@gmail.com",
-            "isProvider": false
-         },
-         {
-            "id": 22,
-            "name": "Hattie Yost",
-            "location": "Wilson",
-            "brokerage": "Coldwell Banker",
-            "email": "HYost@gmail.com",
-            "isProvider": false
-         },
-         {
-            "id": 23,
-            "name": "Van O'Connell",
-            "location": "Dickson",
-            "brokerage": "Century 21",
-            "email": "VOConnell@gmail.com",
-            "isProvider": false
-         },
-         {
-            "id": 24,
-            "name": "Emanuel Jaskolski",
-            "location": "Wilson",
-            "brokerage": "Coldwell Banker",
-            "email": "EJaskolski@gmail.com",
-            "isProvider": false
-         },
-         {
-            "id": 25,
-            "name": "Hubert Price III",
-            "location": "Rutherford",
-            "brokerage": "Century 21",
-            "email": "HPrice@gmail.com",
-            "isProvider": false
-         },
-         {
-            "id": 26,
-            "name": "Ana Doyle",
-            "location": "Wilson",
-            "brokerage": "Byers & Harvey",
-            "email": "ADoyle@yandex.com",
-            "isProvider": false
-         },
-         {
-            "id": 27,
-            "name": "Ben Jakubowski",
-            "location": "Davidson",
-            "brokerage": "Coldwell Banker",
-            "email": "BJakubowski@gmail.com",
-            "isProvider": false
-         }
-    ],
-    "county": [
-        {
-            "id": 1,
-            "name": "Rutherford"
-        },
-        {
-            "id": 2,
-            "name": "Cheatham"
-        },
-        {
-            "id": 3,
-            "name": "Davidson"
-        },
-        {
-            "id": 4,
-            "name": "Wilson"
-        },
-        {
-            "id": 5,
-            "name": "Montgomery"
-        },
-        {
-            "id": 6,
-            "name": "Dickson"
-        },
-        {
-            "id": 7,
-            "name": "Bedford"
-        }
-    ],
-
-    "reqJob": [
-        {
-            "id": 1,
-            "consumerId": 5,
-            "providerId": 1,
-            "locationId": 1,
-            "clientName": "Sam Jones",
-            "time": 1,
-            "isComplete": true
-        }
-    ]
-}   
+  "users": [
+    {
+      "id": 5,
+      "name": "Lydia Paucek",
+      "location": "Bedford",
+      "brokerage": "Remax",
+      "email": "LPaucek@gmail.com",
+      "isProvider": false,
+      "userBio": "",
+      "imageUrl": ""
+    },
+    {
+      "id": 6,
+      "name": "Dianna Lind",
+      "location": "Montgomery",
+      "brokerage": "Crye-Leik",
+      "email": "DLind@gmail.com",
+      "isProvider": false,
+      "userBio": "My Name is DIanna and I am a very busy agent.",
+      "imageUrl": ""
+    },
+    {
+      "id": 7,
+      "name": "Edward Hoeger",
+      "location": "Montgomery",
+      "brokerage": "Remax",
+      "email": "EHoeger@gmail.com",
+      "isProvider": false,
+      "userBio": "",
+      "imageUrl": ""
+    },
+    {
+      "id": 8,
+      "name": "Dianne Price",
+      "location": "Davidson",
+      "brokerage": "Crye-Leik",
+      "email": "DPrice@gmail.com",
+      "isProvider": false,
+      "userBio": "",
+      "imageUrl": ""
+    },
+    {
+      "id": 9,
+      "name": "Cathy Wintheiser",
+      "location": "Montgomery",
+      "brokerage": "Coldwell Banker",
+      "email": "CWintheiser@gmail.com",
+      "isProvider": false,
+      "userBio": "",
+      "imageUrl": ""
+    },
+    {
+      "id": 10,
+      "name": "Roosevelt Koss",
+      "location": "Bedford",
+      "brokerage": "Century 21",
+      "email": "RKoss@gmail.com",
+      "isProvider": false,
+      "userBio": "",
+      "imageUrl": ""
+    },
+    {
+      "id": 11,
+      "name": "Doug Barrows",
+      "location": "Cheatham",
+      "brokerage": "Century 21",
+      "email": "DBarrows@gmail.com",
+      "isProvider": false,
+      "userBio": "",
+      "imageUrl": ""
+    },
+    {
+      "id": 12,
+      "name": "Eloise Goodwin",
+      "location": "Montgomery",
+      "brokerage": "Byers & Harvey",
+      "email": "EGoodwin@gmail.com",
+      "isProvider": false,
+      "userBio": "",
+      "imageUrl": ""
+    },
+    {
+      "id": 13,
+      "name": "Catherine Bode",
+      "location": "Bedford",
+      "brokerage": "Century 21",
+      "email": "CBode@gmail.com",
+      "isProvider": false,
+      "userBio": "",
+      "imageUrl": ""
+    },
+    {
+      "id": 16,
+      "name": "Chester Daugherty",
+      "location": "Rutherford",
+      "brokerage": "Coldwell Banker",
+      "email": "CDaugherty@gmail.com",
+      "isProvider": false,
+      "userBio": "",
+      "imageUrl": ""
+    },
+    {
+      "id": 17,
+      "name": "Susan Rutherford",
+      "location": "Davidson",
+      "brokerage": "Keller Williams",
+      "email": "SRutherford@gmail.com",
+      "isProvider": false,
+      "userBio": "",
+      "imageUrl": ""
+    },
+    {
+      "id": 18,
+      "name": "Salvatore Wehner",
+      "location": "Cheatham",
+      "brokerage": "Century 21",
+      "email": "SWehner@gmail.com",
+      "isProvider": false,
+      "userBio": "",
+      "imageUrl": ""
+    },
+    {
+      "id": 19,
+      "name": "Keith Hessel",
+      "location": "Dickson",
+      "brokerage": "Coldwell Banker",
+      "email": "KHessel@gmail.com",
+      "isProvider": false,
+      "userBio": "",
+      "imageUrl": ""
+    },
+    {
+      "id": 20,
+      "name": "Samuel Walter",
+      "location": "Davidson",
+      "brokerage": "Coldwell Banker",
+      "email": "SWalter@gmail.com",
+      "isProvider": false,
+      "userBio": "",
+      "imageUrl": ""
+    },
+    {
+      "id": 21,
+      "name": "Ida Farrell",
+      "location": "Davidson",
+      "brokerage": "Century 21",
+      "email": "IFarrell@gmail.com",
+      "isProvider": false,
+      "userBio": "",
+      "imageUrl": ""
+    },
+    {
+      "id": 22,
+      "name": "Hattie Yost",
+      "location": "Wilson",
+      "brokerage": "Coldwell Banker",
+      "email": "HYost@gmail.com",
+      "isProvider": false,
+      "userBio": "",
+      "imageUrl": ""
+    },
+    {
+      "id": 23,
+      "name": "Van O'Connell",
+      "location": "Dickson",
+      "brokerage": "Century 21",
+      "email": "VOConnell@gmail.com",
+      "isProvider": false,
+      "userBio": "",
+      "imageUrl": ""
+    },
+    {
+      "id": 24,
+      "name": "Emanuel Jaskolski",
+      "location": "Wilson",
+      "brokerage": "Coldwell Banker",
+      "email": "EJaskolski@gmail.com",
+      "isProvider": false,
+      "userBio": "",
+      "imageUrl": ""
+    },
+    {
+      "id": 25,
+      "name": "Hubert Price III",
+      "location": "Rutherford",
+      "brokerage": "Century 21",
+      "email": "HPrice@gmail.com",
+      "isProvider": false,
+      "userBio": "",
+      "imageUrl": ""
+    },
+    {
+      "id": 26,
+      "name": "Ana Doyle",
+      "location": "Wilson",
+      "brokerage": "Byers & Harvey",
+      "email": "ADoyle@yandex.com",
+      "isProvider": false,
+      "userBio": "Check check",
+      "imageUrl": ""
+    },
+    {
+      "id": 27,
+      "name": "Ben Jakubowski",
+      "location": "Davidson",
+      "brokerage": "Coldwell Banker",
+      "email": "BJakubowski@gmail.com",
+      "isProvider": false,
+      "userBio": "Check",
+      "imageUrl": ""
+    },
+    {
+      "name": "Randolph Orton",
+      "isProvider": true,
+      "brokerage": "Mark Spain Realty",
+      "location": "Montgomery",
+      "email": "RandyO@gmail.com",
+      "id": 29,
+      "userBio": "",
+      "imageUrl": ""
+    },
+    {
+      "name": "Ben",
+      "isProvider": false,
+      "brokerage": "C21",
+      "location": "Davidson",
+      "email": "benben@ben.com",
+      "id": 30,
+      "userBio": "",
+      "imageUrl": ""
+    },
+    {
+      "name": "Roddy Piper",
+      "isProvider": true,
+      "brokerage": "C21",
+      "location": "Rutherfood",
+      "email": "RP@gmail.com",
+      "id": 32,
+      "userBio": "Hello",
+      "imageUrl": "https://api.cloudinary.com/v1_1/dsmjpyt8q/image/upload"
+    },
+    {
+      "name": "Hypnotoad",
+      "isProvider": false,
+      "brokerage": "C21",
+      "location": "Rutherford",
+      "email": "HToad@gmail.com",
+      "id": 33,
+      "userBio": "All glory to the hypnotoad!"
+    },
+    {
+      "name": "Ben",
+      "isProvider": false,
+      "brokerage": "C21",
+      "location": "Shelby",
+      "email": "benben@benben.com",
+      "id": 34,
+      "userBio": "I am a person"
+    }
+  ],
+  "locations": [
+    {
+      "id": 1,
+      "name": "Rutherford"
+    },
+    {
+      "id": 2,
+      "name": "Cheatham"
+    },
+    {
+      "id": 3,
+      "name": "Davidson"
+    },
+    {
+      "id": 4,
+      "name": "Wilson"
+    },
+    {
+      "id": 5,
+      "name": "Montgomery"
+    },
+    {
+      "id": 6,
+      "name": "Dickson"
+    },
+    {
+      "id": 7,
+      "name": "Bedford"
+    }
+  ],
+  "reqJobs": [
+    {
+      "clientName": "Dave Johnson",
+      "consumerId": 28,
+      "userId": 29,
+      "date": "2021-09-23",
+      "phoneNumber": "581-333-2222",
+      "time": "17:17",
+      "address": "123 Oak Street",
+      "isComplete": false,
+      "id": 3
+    }
+  ]
+}
